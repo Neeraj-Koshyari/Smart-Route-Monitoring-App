@@ -40,7 +40,7 @@ export const LocationProvider = ({ children }) => {
         });
       })
       .catch((error) => {
-        console.warn('Location error:', error);
+        console.log('Location error:', error);
         // Even on error, we set loading false so the UI can react.
         setLoading(false);
       });
