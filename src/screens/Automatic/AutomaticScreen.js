@@ -20,7 +20,7 @@ import SosModule from '../../module/SosModule';
 import { SosContext } from '../../context/SosContext';
 import PathSimulator from '../../module/PathSimulator';
 
-const GOOGLE_MAPS_APIKEY = 'AIzaSyA7VRrJc0nxBoH2WhemLcwhEqQnUCPfcTA';
+const GOOGLE_MAPS_APIKEY = 'use API key here';
 
 const styles = StyleSheet.create({
   container: { flex: 1 },
