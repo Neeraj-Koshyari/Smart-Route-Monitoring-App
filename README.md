@@ -31,7 +31,7 @@ A React Native-based mobile application that enhances **travel safety** by monit
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/smart-route-monitoring.git
+git clone https://github.com/Neeraj-Koshyari/Smart-Route-Monitoring-App.git
 cd smart-route-monitoring
 ```
 
