@@ -147,4 +147,4 @@ This project is part of a final year engineering submission. Source code is open
 Developed by Navraj Devali and Neeraj Koshyari<br> 
 Final Year B.Tech – Graphic Era Hill University, Bhimtal<br>
 Project Title: **Smart Route Monitoring and Alert System**  
-Submission: June 2025
+Submission: 2 June 2025
